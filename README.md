@@ -169,6 +169,5 @@ spark-submit \
 
 ## 📝 Σημειώσεις
 
-- Βεβαιωθείτε ότι τα αρχεία δεδομένων βρίσκονται στον φάκελο `data/`
 - Για το Market Basket Analysis, η παράμετρος `3` είναι το ελάχιστο support (minSupport)
 - Το JAR name μπορεί να διαφέρει ανάλογα με το `name` και `version` στο `build.sbt`
